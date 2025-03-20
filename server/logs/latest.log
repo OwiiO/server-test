@@ -251,3 +251,63 @@ java.sql.SQLException: Failed set location id in profile
 [21:14:21] [Server thread/INFO]: DevAbuser issued server command: /xp 1
 [21:14:44] [Server thread/INFO]: DevAbuser lost connection: Disconnected
 [21:14:44] [Server thread/INFO]: DevAbuser left the game.
+[21:35:24] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:35:30] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:35:36] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[21:35:36] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[21:35:36] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
+[21:37:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:37:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:37:12] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:37:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:38:21] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:38:24] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+

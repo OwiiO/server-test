@@ -55,7 +55,7 @@ commands:
   - testforblock
   - tellraw
 messages:
-  whitelist: You are not whitelisted on this server!
+  whitelist: You are not whitelisted. Ask the server owner to be added.
   unknown-command: Unknown command. Type "/help" for help.
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
@@ -89,14 +89,14 @@ world-settings:
       - 5
     nerf-spawner-mobs: false
     growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
+      cactus-modifier: 150
+      cane-modifier: 150
+      melon-modifier: 150
+      mushroom-modifier: 150
+      pumpkin-modifier: 150
+      sapling-modifier: 150
+      wheat-modifier: 150
+      netherwart-modifier: 150
     mob-spawn-range: 4
     entity-activation-range:
       animals: 32

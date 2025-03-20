@@ -244,3 +244,10 @@ java.sql.SQLException: Failed set location id in profile
 [21:12:33] [Server thread/INFO]: DevAbuser issued server command: /give DevAbuser stick 1
 [21:12:42] [Server thread/INFO]: DevAbuser lost connection: Disconnected
 [21:12:42] [Server thread/INFO]: DevAbuser left the game.
+[21:13:59] [Thread-8/INFO]: UUID of player DevAbuser is 18cf9d60-2acb-3db8-af4c-08f741dfa86d
+[21:13:59] [Server thread/INFO]: DevAbuser[/[0:0:0:0:0:0:0:1]:51996] logged in with entity id 2453 at ([world]206.89896230171726, 65.0, 253.04194528757822)
+[21:14:05] [Server thread/INFO]: DevAbuser issued server command: /l OP_OwiiO
+[21:14:19] [Server thread/INFO]: DevAbuser issued server command: /give DevAbuser stick
+[21:14:21] [Server thread/INFO]: DevAbuser issued server command: /xp 1
+[21:14:44] [Server thread/INFO]: DevAbuser lost connection: Disconnected
+[21:14:44] [Server thread/INFO]: DevAbuser left the game.

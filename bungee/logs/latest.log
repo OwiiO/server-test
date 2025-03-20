@@ -84,3 +84,11 @@
 [21:12:42] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53070|DevAbuser] -> UpstreamBridge has disconnected
 [21:12:42] [Netty Worker IO Thread #0/INFO]: [DevAbuser] disconnected with: Proxy lost connection to server.
 [21:12:42] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:53070|DevAbuser] <-> DownstreamBridge <-> [lobby] has disconnected
+[21:13:59] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38046]: Connected via websocket
+[21:13:59] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38046]: Origin header is https://html.cafe
+[21:13:59] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38046]: Logged in as 'DevAbuser'
+[21:13:59] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38046|DevAbuser] -> UpstreamBridge has connected
+[21:13:59] [Netty Worker IO Thread #3/INFO]: [DevAbuser|/[0:0:0:0:0:0:0:1%0]:38046] <-> ServerConnector [lobby] has connected
+[21:14:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38046|DevAbuser] -> UpstreamBridge has disconnected
+[21:14:44] [Netty Worker IO Thread #3/INFO]: [DevAbuser] disconnected with: Proxy lost connection to server.
+[21:14:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38046|DevAbuser] <-> DownstreamBridge <-> [lobby] has disconnected

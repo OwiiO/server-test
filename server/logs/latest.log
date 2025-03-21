@@ -311,3 +311,97 @@ java.sql.SQLException: Failed set location id in profile
 
 [21:38:24] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[21:40:07] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:40:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:40:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:42:20] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:42:25] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:42:29] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:42:34] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:46:01] [Server thread/INFO]: [0;35;1mSearching for: op_owiio[m
+
+[21:46:01] [Server thread/INFO]: [0;31;1mNo items found.[m
+
+[21:46:21] [Server thread/INFO]: [0;31;1mFor parameter 'player': Caller is not a player[m
+
+[21:46:21] [Server thread/INFO]: [0;31;1mUsage: //clearhistory[m
+
+[21:47:10] [Server thread/INFO]: [0;31;1mFor parameter 'player': Caller is not a player[m
+
+[21:47:10] [Server thread/INFO]: [0;31;1mUsage: //fill <block> <radius> [depth][m
+
+[21:47:42] [Server thread/INFO]: [0;31;1mFor parameter 'player': Caller is not a player[m
+
+[21:47:42] [Server thread/INFO]: [0;31;1mUsage: //generate <block> <expression>[m
+
+[21:47:59] [Server thread/INFO]: [0;31;1mFor parameter 'player': Caller is not a player[m
+
+[21:47:59] [Server thread/INFO]: [0;31;1mUsage: // [on|off][m
+
+[21:48:03] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:48:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:48:26] [Server thread/INFO]: [0;31;1mFor parameter 'player': Caller is not a player[m
+
+[21:48:26] [Server thread/INFO]: [0;31;1mUsage: //undo [times] [player][m
+
+[21:48:32] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:49:55] [Server thread/INFO]: [0;33;1m----------[m Help: page 1/6  [0;33;1m--------------------[m[m
+
+[21:49:55] [Server thread/INFO]: [0;37;22mType [0;36;1m//help <command> [<page>][0;37;22m for more information.[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//: [mToggle the super pickaxe function[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/.s: [mExecute last CraftScript[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/ascend: [mGo up a floor[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/biomeinfo: [mGet the biome of the targeted block.[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/biomelist: [mGets all biomes available.[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/brush: [mBrushing commands[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/butcher: [mKill all or nearby mobs[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//calc: [mEvaluate a mathematical expression[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/ceil: [mGo to the celing[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//center: [mSet the center block(s)[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//chunk: [mSet the selection to your current chunk.[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/chunkinfo: [mGet information about the chunk that you are inside[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/clearclipboard: [mClear your clipboard[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//clearhistory: [mClear your history[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//contract: [mContract the selection area[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//copy: [mCopy the selection to the clipboard[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//count: [mCounts the number of a certain type of block[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m/cs: [mExecute a CraftScript[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//curve: [mDraws a spline through selected points[m
+
+[21:49:55] [Server thread/INFO]: [0;33;22m//cut: [mCut the selection to the clipboard[m
+
+[21:50:08] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:50:13] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
+[21:50:17] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
